@@ -3,7 +3,9 @@ import React from "react";
 export default class Archives extends React.Component {
   render() {
     return (
-    <div> Archives</div>
+    <div> 
+      <h1>Archives</h1>
+      </div>
     );
   }
 }
